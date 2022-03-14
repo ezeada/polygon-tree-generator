@@ -1,9 +1,9 @@
-# polygon-tree-generator
-For CS248--a p5.js implementation of space colonization using tree crowns represented by polygons created by the user. More detailed write-up below
+
 
 
 # Polygon Tree Generator
 Adaeze Chukwuka
+For CS248--a p5.js implementation of space colonization using tree crowns represented by polygons created by the user. More detailed write-up below.
 
 This project implements a cross between two very similar algorithms from “Modeling and visualization of leaf venation patterns” (which uses 2D coordinates) and “Modeling Trees with a Space Colonization Algorithm” (which uses 3D coordinates), both by Adam Runions, Brendan Lane, and Przemyslaw Prusinkiewicz at the University of Calgary. From the leaf paper, I omit the iterative polygon leaf growth aspect of the algorithm in exchange for the crown definition aspect of the tree paper algorithm. From the tree paper, I omit the branch count aspect of the algorithm in exchange for the node addition aspect of the leaf paper.
 
